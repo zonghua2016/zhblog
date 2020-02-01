@@ -932,3 +932,11 @@
 [2020-02-02T03:23:45.601] [INFO] [Default] - GET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[{"id":0,"name":"web","description":"web 设计","createTime":"2020-02-01T16:50:17.498Z","updateTime":"2020-02-01T16:50:17.498Z"},{"id":0,"name":"web","description":"web 设计","createTime":"2020-02-01T18:53:43.676Z","updateTime":"2020-02-01T18:53:43.676Z"}]}} - ::1 - 3ms
 [2020-02-02T03:24:45.712] [INFO] [Default] - mongo is opened!
 [2020-02-02T03:47:33.785] [INFO] [Default] - mongo is opened!
+[2020-02-02T03:47:43.430] [INFO] [Default] - mongo is opened!
+[2020-02-02T03:47:49.630] [INFO] [Default] - mongo is opened!
+[2020-02-02T03:49:49.555] [INFO] [Default] - mongo is opened!
+[2020-02-02T03:49:53.615] [INFO] [Default] - mongo is opened!
+[2020-02-02T03:49:58.429] [INFO] [Default] - mongo is opened!
+[2020-02-02T03:50:05.190] [INFO] [Default] - mongo is opened!
+[2020-02-02T03:50:10.096] [INFO] [Default] - mongo is opened!
+[2020-02-02T03:50:12.226] [INFO] [Default] - mongo is opened!
