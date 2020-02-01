@@ -1,7 +1,0 @@
-[2020-02-01T13:54:20.193] [INFO] [Default] - GET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":29,"message":"hello world !!!"}} - ::1 - 1ms
-[2020-02-01T13:54:21.400] [INFO] [Default] - GET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":29,"message":"hello world !!!"}} - ::1 - 3ms
-[2020-02-01T13:54:22.179] [INFO] [Default] - GET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":29,"message":"hello world !!!"}} - ::1 - 0ms
-[2020-02-01T13:54:22.988] [INFO] [Default] - GET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":29,"message":"hello world !!!"}} - ::1 - 1ms
-[2020-02-01T22:11:49.946] [INFO] [Default] - GET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":29,"message":"hello world !!!"}} - ::1 - 3ms
-[2020-02-01T22:11:51.093] [INFO] [Default] - GET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":29,"message":"hello world !!!"}} - ::1 - 1ms
-[2020-02-01T22:11:52.499] [INFO] [Default] - GET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":29,"message":"hello world !!!"}} - ::1 - 0ms

@@ -1,3 +1,0 @@
-[2020-01-31T21:51:03.809] [INFO] [Default] - GET 404 / 请求参数： {} 响应参数：undefined - ::1 - 1ms
-[2020-01-31T21:51:18.605] [INFO] [Default] - GET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":29,"message":"hello world !!!"}} - ::1 - 3ms
-[2020-01-31T22:39:48.078] [INFO] [Default] - GET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":29,"message":"hello world !!!"}} - ::1 - 0ms

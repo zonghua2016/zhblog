@@ -1,9 +1,0 @@
-[2020-01-24T17:31:37.916] [INFO] [Default] - GET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":100,"message":"hello world !!!"}} - ::1 - 9ms
-[2020-01-24T19:24:18.639] [INFO] [Default] - GET 200 /api/users?name=zs&sex=%E7%94%B7 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":100,"message":"hello world !!!"}} - ::1 - 3ms
-[2020-01-24T19:24:19.831] [INFO] [Default] - GET 200 /api/users?name=zs&sex=%E7%94%B7 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":100,"message":"hello world !!!"}} - ::1 - 0ms
-[2020-01-24T19:24:21.339] [INFO] [Default] - GET 200 /api/users?name=zs&sex=%E7%94%B7 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":100,"message":"hello world !!!"}} - ::1 - 0ms
-[2020-01-24T19:24:35.052] [INFO] [Default] - GET 200 /api/users?name=zs&sex=%E7%94%B7 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":29,"message":"hello world !!!"}} - ::1 - 3ms
-[2020-01-24T19:24:36.397] [INFO] [Default] - GET 200 /api/users?name=zs&sex=%E7%94%B7 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":29,"message":"hello world !!!"}} - ::1 - 1ms
-[2020-01-24T19:24:37.007] [INFO] [Default] - GET 200 /api/users?name=zs&sex=%E7%94%B7 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":29,"message":"hello world !!!"}} - ::1 - 0ms
-[2020-01-24T19:24:37.277] [INFO] [Default] - GET 200 /api/users?name=zs&sex=%E7%94%B7 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":29,"message":"hello world !!!"}} - ::1 - 0ms
-[2020-01-24T19:24:37.599] [INFO] [Default] - GET 200 /api/users?name=zs&sex=%E7%94%B7 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":29,"message":"hello world !!!"}} - ::1 - 0ms
