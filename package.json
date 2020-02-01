@@ -1,7 +1,7 @@
 {
   "name": "zhblog",
-  "version": "0.0.0",
-  "description": "个人博客",
+  "version": "0.0.1",
+  "description": "博客服务",
   "main": "index.js",
   "scripts": {
     "start": "node ./bin/www",
