@@ -1,0 +1,157 @@
+Listening on port 9889
+[32m[2020-02-02T02:52:30.223] [INFO] [Default] - [39mmongo is opened!
+controllers=== []
+[32m[2020-02-02T02:52:36.343] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"userList":[]}} - ::1 - 14ms
+Listening on port 9889
+[32m[2020-02-02T02:53:15.037] [INFO] [Default] - [39mmongo is opened!
+controllers=== 0
+[32m[2020-02-02T02:53:16.422] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"userList":0}} - ::1 - 16ms
+Listening on port 9889
+[32m[2020-02-02T02:53:25.018] [INFO] [Default] - [39mmongo is opened!
+controllers=== []
+[32m[2020-02-02T02:53:53.656] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"userList":[]}} - ::1 - 14ms
+controllers=== []
+[32m[2020-02-02T02:53:54.965] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"userList":[]}} - ::1 - 2ms
+controllers=== []
+[32m[2020-02-02T02:53:55.297] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"userList":[]}} - ::1 - 3ms
+Listening on port 9889
+[32m[2020-02-02T02:54:14.930] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T02:54:32.150] [INFO] [Default] - [39mmongo is opened!
+controllers=== []
+[32m[2020-02-02T02:54:32.217] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"userList":[]}} - ::1 - 18ms
+controllers=== []
+[32m[2020-02-02T02:54:33.461] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"userList":[]}} - ::1 - 2ms
+controllers=== []
+[32m[2020-02-02T02:54:33.966] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"userList":[]}} - ::1 - 2ms
+controllers=== []
+[32m[2020-02-02T02:54:34.249] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"userList":[]}} - ::1 - 3ms
+controllers=== []
+[32m[2020-02-02T02:54:34.570] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"userList":[]}} - ::1 - 4ms
+controllers=== []
+[32m[2020-02-02T02:54:35.452] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"userList":[]}} - ::1 - 2ms
+controllers=== []
+[32m[2020-02-02T02:54:36.294] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"userList":[]}} - ::1 - 2ms
+Listening on port 9889
+[32m[2020-02-02T02:54:59.718] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T02:56:57.648] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T02:57:42.437] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:03:06.166] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:03:08.534] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:03:21.205] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:03:35.883] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:03:50.391] [INFO] [Default] - [39mmongo is opened!
+[32m[2020-02-02T03:03:51.060] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 14ms
+[32m[2020-02-02T03:03:52.351] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 2ms
+[32m[2020-02-02T03:03:53.223] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 2ms
+[32m[2020-02-02T03:03:57.421] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 1ms
+[32m[2020-02-02T03:04:00.671] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 4ms
+[32m[2020-02-02T03:04:04.749] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 1ms
+[32m[2020-02-02T03:04:06.757] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 1ms
+[32m[2020-02-02T03:04:07.135] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 2ms
+[32m[2020-02-02T03:04:07.353] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 2ms
+[32m[2020-02-02T03:04:07.491] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 2ms
+[32m[2020-02-02T03:04:08.042] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 1ms
+[32m[2020-02-02T03:04:09.535] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 1ms
+[32m[2020-02-02T03:04:10.803] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 1ms
+[32m[2020-02-02T03:04:11.488] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 1ms
+[32m[2020-02-02T03:04:12.252] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 1ms
+[32m[2020-02-02T03:04:15.399] [INFO] [Default] - [39mGET 404 /api/user 请求参数： {} 响应参数：undefined - ::1 - 0ms
+[32m[2020-02-02T03:04:18.465] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 1ms
+Listening on port 9889
+[32m[2020-02-02T03:05:17.375] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:05:19.243] [INFO] [Default] - [39mmongo is opened!
+[32m[2020-02-02T03:05:19.752] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 14ms
+[32m[2020-02-02T03:05:20.856] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 2ms
+Model { category }
+Listening on port 9889
+[32m[2020-02-02T03:06:23.240] [INFO] [Default] - [39mmongo is opened!
+[32m[2020-02-02T03:06:26.636] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 12ms
+[32m[2020-02-02T03:06:43.464] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 2ms
+Listening on port 9889
+[32m[2020-02-02T03:07:16.257] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:07:21.166] [INFO] [Default] - [39mmongo is opened!
+[32m[2020-02-02T03:08:18.859] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 16ms
+Listening on port 9889
+[32m[2020-02-02T03:12:54.643] [INFO] [Default] - [39mmongo is opened!
+[32m[2020-02-02T03:12:55.081] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[{"id":0,"name":"web","description":"web 设计","createTime":"2020-02-01T16:50:17.498Z","updateTime":"2020-02-01T16:50:17.498Z"},{"id":0,"name":"web","description":"web 设计","createTime":"2020-02-01T18:53:43.676Z","updateTime":"2020-02-01T18:53:43.676Z"}]}} - ::1 - 38ms
+Listening on port 9889
+[32m[2020-02-02T03:17:59.020] [INFO] [Default] - [39mmongo is opened!
+[32m[2020-02-02T03:18:00.268] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 14ms
+[32m[2020-02-02T03:18:10.956] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 2ms
+[32m[2020-02-02T03:18:11.980] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 1ms
+[32m[2020-02-02T03:18:12.294] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 1ms
+[32m[2020-02-02T03:18:13.051] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 1ms
+[32m[2020-02-02T03:18:13.368] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 2ms
+[32m[2020-02-02T03:18:38.635] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 1ms
+[32m[2020-02-02T03:19:55.168] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 2ms
+Listening on port 9889
+[32m[2020-02-02T03:19:56.062] [INFO] [Default] - [39mmongo is opened!
+[91m[2020-02-02T03:19:56.394] [ERROR] [Default] - [39mTypeError: Cannot read property 'find' of undefined
+    at Object.getCategoryList (/Users/edz/Desktop/resource/zhblog/services/category.js:15:36)
+    at getCategoryList (/Users/edz/Desktop/resource/zhblog/controllers/category.js:15:52)
+    at dispatch (/Users/edz/Desktop/resource/zhblog/node_modules/koa-compose/index.js:42:32)
+    at /Users/edz/Desktop/resource/zhblog/node_modules/koa-router/lib/router.js:353:16
+    at dispatch (/Users/edz/Desktop/resource/zhblog/node_modules/koa-compose/index.js:42:32)
+    at /Users/edz/Desktop/resource/zhblog/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/edz/Desktop/resource/zhblog/node_modules/koa-router/lib/router.js:358:31)
+    at dispatch (/Users/edz/Desktop/resource/zhblog/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/edz/Desktop/resource/zhblog/node_modules/koa-router/lib/router.js:339:32)
+    at dispatch (/Users/edz/Desktop/resource/zhblog/node_modules/koa-compose/index.js:42:32)
+    at /Users/edz/Desktop/resource/zhblog/node_modules/koa-static-cache/index.js:62:42
+    at dispatch (/Users/edz/Desktop/resource/zhblog/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/edz/Desktop/resource/zhblog/node_modules/koa-bodyparser/index.js:86:11)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async loggerMiddleware (/Users/edz/Desktop/resource/zhblog/middlewares/logger.js:48:5)
+[32m[2020-02-02T03:19:56.396] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":-1,"data":null,"msg":"Cannot read property 'find' of undefined"} - ::1 - 3ms
+Listening on port 9889
+[32m[2020-02-02T03:20:03.662] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:20:16.614] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:20:18.353] [INFO] [Default] - [39mmongo is opened!
+[32m[2020-02-02T03:20:19.401] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 14ms
+[32m[2020-02-02T03:20:20.463] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[]}} - ::1 - 2ms
+[32m[2020-02-02T03:20:33.299] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[{"id":0,"name":"web","description":"web 设计","createTime":"2020-02-01T16:50:17.498Z","updateTime":"2020-02-01T16:50:17.498Z"},{"id":0,"name":"web","description":"web 设计","createTime":"2020-02-01T18:53:43.676Z","updateTime":"2020-02-01T18:53:43.676Z"}]}} - ::1 - 22ms
+[32m[2020-02-02T03:20:35.051] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[{"id":0,"name":"web","description":"web 设计","createTime":"2020-02-01T16:50:17.498Z","updateTime":"2020-02-01T16:50:17.498Z"},{"id":0,"name":"web","description":"web 设计","createTime":"2020-02-01T18:53:43.676Z","updateTime":"2020-02-01T18:53:43.676Z"}]}} - ::1 - 3ms
+Listening on port 9889
+[32m[2020-02-02T03:21:26.498] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:21:40.383] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:21:49.805] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:22:13.930] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:22:20.098] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:22:22.726] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:22:29.904] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:22:37.570] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:22:39.769] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:22:44.205] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:22:50.391] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:22:53.589] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:23:03.386] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:23:20.143] [INFO] [Default] - [39mmongo is opened!
+[32m[2020-02-02T03:23:43.426] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[{"id":0,"name":"web","description":"web 设计","createTime":"2020-02-01T16:50:17.498Z","updateTime":"2020-02-01T16:50:17.498Z"},{"id":0,"name":"web","description":"web 设计","createTime":"2020-02-01T18:53:43.676Z","updateTime":"2020-02-01T18:53:43.676Z"}]}} - ::1 - 32ms
+[32m[2020-02-02T03:23:45.601] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[{"id":0,"name":"web","description":"web 设计","createTime":"2020-02-01T16:50:17.498Z","updateTime":"2020-02-01T16:50:17.498Z"},{"id":0,"name":"web","description":"web 设计","createTime":"2020-02-01T18:53:43.676Z","updateTime":"2020-02-01T18:53:43.676Z"}]}} - ::1 - 3ms
+Listening on port 9889
+[32m[2020-02-02T03:24:45.712] [INFO] [Default] - [39mmongo is opened!

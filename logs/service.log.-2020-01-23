@@ -1,0 +1,7 @@
+[2020-01-23T22:07:33.640] [INFO] [Default] - GET 404 /users 请求参数： {} 响应参数：undefined - ::1 - 2ms
+[2020-01-23T22:08:55.972] [INFO] [Default] - GET 404 /users 请求参数： {} 响应参数：undefined - ::1 - 1ms
+[2020-01-23T22:09:09.847] [INFO] [Default] - GET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"code":1,"message":"hello world"}} - ::1 - 1ms
+[2020-01-23T22:10:01.942] [INFO] [Default] - GET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":100,"message":"hello world"}} - ::1 - 3ms
+[2020-01-23T22:14:31.439] [INFO] [Default] - GET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":100,"message":"hello world"}} - ::1 - 3ms
+[2020-01-23T22:14:42.813] [INFO] [Default] - GET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":100,"message":"hello world !!!"}} - ::1 - 3ms
+[2020-01-23T22:15:27.670] [INFO] [Default] - GET 200 /api/users?name=zs&sex=%E7%94%B7 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"pages":100,"message":"hello world !!!"}} - ::1 - 1ms

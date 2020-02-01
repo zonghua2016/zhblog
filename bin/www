@@ -1,0 +1,82 @@
+/*
+ * @Description  : 集成服务
+ * @Author       : tongzonghua
+ * @Date         : 2020-01-20 19:22:44
+ * @LastEditTime : 2020-01-23 21:58:13
+ * @LastEditors  : tongzonghua
+ * @Email        : tongzonghua@gmail.com
+ * @GitHub       : https://github.com/zonghua2016
+ */
+
+const app = require('../app.js');
+const http = require('http');
+const {
+    SERVICE
+} = require('../utils/config.js');
+
+// 端口号
+const PORT = normalizePort(process.env.PORT || SERVICE.PORT);
+
+// 创建服务
+const server = http.createServer(app.callback());
+server.listen(PORT);
+server.on('error', onError);
+server.on('listening', onListening);
+
+/**
+ * ？？？
+ * @param val 端口号
+ */
+function normalizePort(val) {
+    const port = parseInt(val, 10);
+
+    // named pipe
+    if (isNaN(port)) {
+        return val;
+    }
+
+    // port number
+    if (port >= 0) {
+        return port;
+    }
+
+    return false;
+}
+
+/**
+ * 监听 http 服务的 listening 事件
+ */
+function onListening() {
+    const addr = server.address();
+    const bind = typeof addr === 'string' ?
+        `pipe ${addr}` :
+        `port ${addr.port}`;
+    console.log(`Listening on ${bind}`);
+}
+
+/**
+ * 监听 http 服务的 error 事件
+ * @param error 错误信息
+ */
+function onError(error) {
+    if (error.syscall !== 'listen') {
+        throw error;
+    }
+
+    const bind = typeof PORT === 'string' ?
+        `pipe ${PORT}` :
+        `port ${PORT}`;
+
+    switch (error.code) {
+        case 'EACESS':
+            console.error(`${bind} requires elevated privileges`)
+            process.exit(1);
+            break;
+        case 'EADDRINUSE':
+            console.error(`${bind} is already in use`);
+            process.exit(1);
+            break;
+        default:
+            throw error;
+    }
+}

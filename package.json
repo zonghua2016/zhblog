@@ -1,0 +1,29 @@
+{
+  "name": "zhblog",
+  "version": "0.0.0",
+  "description": "个人博客",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "dev": "pm2 start ecosystem.config.js --env dev",
+    "test": "pm2 start ecosystem.config.js --env test",
+    "pro": "pm2 start ecosystem.config.js --env pro",
+    "logs": "pm2 logs",
+    "stop": "pm2 stop ecosystem.config.js"
+  },
+  "repository": "https://github.com/zonghua2016/zhblog.git",
+  "author": "zonghua2016 <2280314971@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-helmet": "^5.2.0",
+    "koa-router": "^8.0.6",
+    "koa-static-cache": "^5.1.2",
+    "koa2-cors": "^2.0.6",
+    "log4js": "^6.1.0",
+    "mongoose": "^5.8.9"
+  },
+  "devDependencies": {}
+}
