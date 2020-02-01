@@ -155,3 +155,5 @@ Listening on port 9889
 [32m[2020-02-02T03:23:45.601] [INFO] [Default] - [39mGET 200 /api/users 请求参数： {} 响应参数：{"code":200,"msg":"","data":{"categoryList":[{"id":0,"name":"web","description":"web 设计","createTime":"2020-02-01T16:50:17.498Z","updateTime":"2020-02-01T16:50:17.498Z"},{"id":0,"name":"web","description":"web 设计","createTime":"2020-02-01T18:53:43.676Z","updateTime":"2020-02-01T18:53:43.676Z"}]}} - ::1 - 3ms
 Listening on port 9889
 [32m[2020-02-02T03:24:45.712] [INFO] [Default] - [39mmongo is opened!
+Listening on port 9889
+[32m[2020-02-02T03:47:33.785] [INFO] [Default] - [39mmongo is opened!
