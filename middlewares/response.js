@@ -1,5 +1,5 @@
 /*
- * @Description  : 响应体信息
+ * @Description  : 自定义响应体信息
  * @Author       : tongzonghua
  * @Date         : 2020-01-23 20:04:03
  * @LastEditTime : 2020-02-01 22:11:15
