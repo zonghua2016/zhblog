@@ -22,7 +22,7 @@
     "koa-router": "^8.0.6",
     "koa-static-cache": "^5.1.2",
     "koa2-cors": "^2.0.6",
-    "log4js": "^6.1.0",
+    "log4js": "^6.4.0",
     "mongoose": "^5.8.9"
   },
   "devDependencies": {}
